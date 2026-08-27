@@ -1,9 +1,9 @@
 <!-- Animated banner with falling tech logos — commit banner.svg to the repo root and it will render here -->
 <img width="100%" alt="banner" src="banner.svg" />
 
-# Hi there, I'm João Vitor Lessa! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />
+# Hi there, I'm João Vitor Givisiez Lessa! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />
 
-### 💻 Computer Science Student | Java & AWS Developer
+### 💻 Computer Science Student
 
 
 I'm an undergraduate student studying **Computer Science** at the **Federal University of Lavras (UFLA)**, currently working as a **Software Development Intern at Druid**, focused on Java and AWS. I have a broad practical background in software development — from full-stack applications to DevOps and cloud infrastructure — and I enjoy applying and expanding my knowledge across software engineering, data science, and intelligent solutions.
