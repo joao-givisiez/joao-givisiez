@@ -23,23 +23,29 @@ I'm an undergraduate student studying **Computer Science** at the **Federal Univ
 
 ### 💻 Languages
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=java,python,cpp,r,mysql" alt="Languages" height="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,r,mysql" alt="Languages" height="40"/></a>
 </p>
 
 ### ☁️ Cloud & DevOps
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,bash,git,github" alt="Cloud and DevOps" height="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,bash,git,github,grafana" alt="Cloud and DevOps" height="40"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" height="40"/></a>
 </p>
 
 ### 🧠 Data Science, AI & Machine Learning
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,scikitlearn" alt="Data and AI" height="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,scikitlearn,opencv" alt="Data and AI" height="40"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="40"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Dagster-654FF0?style=flat-square&logo=dagster&logoColor=white" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Evaluation%20Harness-412991?style=flat-square" height="30"/></a>
 </p>
 
 ### 🔧 Tools & Utilities
 <p align="left">
   <a href="#"><img src="https://skillicons.dev/icons?i=vscode,postman" alt="Tools" height="40"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" height="30"/></a>
 </p>
 
 ---
