@@ -37,8 +37,6 @@ I'm an undergraduate student studying **Computer Science** at the **Federal Univ
   <a href="#"><img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,scikitlearn,opencv" alt="Data and AI" height="40"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="40"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" height="30"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Dagster-654FF0?style=flat-square&logo=dagster&logoColor=white" height="30"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-Evaluation%20Harness-412991?style=flat-square" height="30"/></a>
 </p>
 
