@@ -1,12 +1,41 @@
-<!-- Animated banner with falling tech logos — commit banner.svg to the repo root and it will render here -->
 <img width="100%" alt="banner" src="banner.svg" />
 
 # Hi there, I'm João Vitor Givisiez Lessa! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />
 
-### 💻 Computer Science Student
+### 🤖 Computer Science Student · AI & Software Engineering
 
+I'm an undergraduate student studying **Computer Science** at the **Federal University of Lavras (UFLA)**, currently working as a **Software Development Intern at Druid**, focused on Java and AWS. I build software end to end — from data pipelines and machine learning models to APIs, CI/CD and cloud deployments — and my main interest is **turning AI into real products**.
 
-I'm an undergraduate student studying **Computer Science** at the **Federal University of Lavras (UFLA)**, currently working as a **Software Development Intern at Druid**, focused on Java and AWS. I have a broad practical background in software development — from full-stack applications to DevOps and cloud infrastructure — and I enjoy applying and expanding my knowledge across software engineering, data science, and intelligent solutions.
+---
+
+## 🧠 Featured AI & Data Projects
+
+### 🩺 [Ischemic Heart Disease Mortality — Predictive ML + Explainable AI](https://github.com/joao-givisiez/Ciencia_e_Analise_de_dados)
+End-to-end data science project that integrates **9 public datasets** (DATASUS, IBGE, IPEA, PNUD, CNES, VIGITEL) to predict mortality rates in Brazilian states from socioeconomic indicators.
+
+- 🔧 **Pipeline:** data cleaning, integration and feature engineering with Pandas
+- 🌲 **Modeling:** Random Forest tuned with `GridSearchCV` and 5-fold cross-validation — **R² = 74%** for the adults/elderly model
+- 🔍 **Explainable AI:** SHAP values to show *why* the model predicts what it predicts (Gini as risk factor, HDI as protective factor)
+- 🚀 **Deployment:** serialized models (`joblib`) served in an interactive **Streamlit** dashboard with a policy-scenario simulator — [live demo](https://erue9xjj8xotiktccy8ino.streamlit.app/)
+
+`Python` `scikit-learn` `SHAP` `Pandas` `Plotly` `Streamlit`
+
+### 🚚 [Hybrid Heuristic for the Capacitated Arc Routing Problem](https://github.com/joao-givisiez/Algoritmo-em-Grafos)
+Optimization algorithm for logistics routing: graph modeling with cached Dijkstra shortest paths, a constructive heuristic for a feasible initial solution and **Variable Neighborhood Search (VNS)** for improvement, benchmarked on classic CARP instances.
+
+`Python` `Graphs` `Metaheuristics` `Optimization`
+
+---
+
+## ⚙️ Software Engineering Projects
+
+| Project | What it shows | Stack |
+|---|---|---|
+| [Projeto-Comp](https://github.com/joao-givisiez/Projeto-Comp) | CI/CD pipeline with automated tests and Docker image deploy | Node.js · Jest · GitHub Actions · Docker |
+| [Compiladores](https://github.com/joao-givisiez/Compiladores) | Lexical and syntactic analyzers (Flex/Bison) and a hand-written transition-diagram scanner | C · Flex · Bison |
+| [Sequence Set](https://github.com/joao-givisiez/Indexa-o-em-Sistemas-de-Informa-o) | Generic block-based binary file storage with insert, search, delete and listing | C++ |
+| [ConectaU](https://github.com/joao-givisiez/ConectaU) | Team project: microservices architecture, REST API (OpenAPI) and CQRS documentation | Architecture · OpenAPI |
+| [Personal Page](https://github.com/joao-givisiez/proWeb2-personal_page) | Portfolio page in two versions (Bootstrap and Bulma) with theme switching | HTML · CSS · JS |
 
 ---
 
@@ -14,12 +43,22 @@ I'm an undergraduate student studying **Computer Science** at the **Federal Univ
 
 - 💼 Working with **Java, Maven, Docker and AWS** on daily development, architecture and cloud deployments.
 - 🔬 Undergraduate researcher in **AI, NLP and LLMs** — from human–robot interaction to autonomous agents.
-- 🌱 Currently deepening my studies in **Data Science, Machine Learning** and **cloud architecture**.
+- 🌱 Currently deepening my studies in **Machine Learning, LLMs** and **cloud architecture**.
 - 💬 Comfortable working in agile teams and writing clear technical documentation, in Portuguese or English.
 
 ---
 
 ## 🛠️ Languages and Tools
+
+### 🧠 Data Science, AI & Machine Learning
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,scikitlearn,opencv" alt="Data and AI" height="40"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="40"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-SHAP-412991?style=flat-square" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Evaluation%20Harness-412991?style=flat-square" height="30"/></a>
+</p>
 
 ### 💻 Languages
 <p align="left">
@@ -30,14 +69,6 @@ I'm an undergraduate student studying **Computer Science** at the **Federal Univ
 <p align="left">
   <a href="#"><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,bash,git,github,grafana" alt="Cloud and DevOps" height="40"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" height="40"/></a>
-</p>
-
-### 🧠 Data Science, AI & Machine Learning
-<p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,scikitlearn,opencv" alt="Data and AI" height="40"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="40"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Evaluation%20Harness-412991?style=flat-square" height="30"/></a>
 </p>
 
 ### 🔧 Tools & Utilities
