@@ -10,6 +10,21 @@ I'm an undergraduate student studying **Computer Science** at the **Federal Univ
 
 ## 🧠 Featured AI & Data Projects
 
+### ♟️ [Othello with LLM Agents — LangGraph + Tools](https://github.com/joao-givisiez/othello-agentes-llm)
+LLM agent built with **LangGraph** that plays Othello through a *perceive → reason → use tools → act* loop, compared against classical AI agents in a tournament.
+
+- 🛠️ **Tool calling:** `get_valid_moves`, `make_move`, `simulate_move`, `analyze_moves` and `minimax_search` exposed to the LLM, which explains every move it makes
+- 🧠 **Agent design:** game memory via checkpointer, re-prompting when the LLM doesn't play, safe fallback move and retry on API errors
+- 🤖 **Classical baselines:** random, greedy, heuristic and Minimax with alpha-beta pruning over a bitboard game engine
+- 📊 **Experiments:** round-robin tournament with metrics and generated reports, a configurable LLM provider (including Groq), tests and a Tkinter GUI
+
+`Python` `LangGraph` `LLMs` `Tool Calling` `Minimax` `pytest`
+
+### 📐 [KNN from Scratch vs. Scikit-learn](https://github.com/joao-givisiez/KNN)
+K-Nearest Neighbors implemented without ML libraries (distances, neighbor selection, majority vote, tie-breaking and evaluation metrics), validated against Scikit-learn on the Iris dataset: **identical predictions (45/45)** and **95.6% accuracy** for k = 5 and 7.
+
+`Python` `NumPy` `Machine Learning` `scikit-learn`
+
 ### 🩺 [Ischemic Heart Disease Mortality — Predictive ML + Explainable AI](https://github.com/joao-givisiez/Ciencia_e_Analise_de_dados)
 End-to-end data science project that integrates **9 public datasets** (DATASUS, IBGE, IPEA, PNUD, CNES, VIGITEL) to predict mortality rates in Brazilian states from socioeconomic indicators.
 
